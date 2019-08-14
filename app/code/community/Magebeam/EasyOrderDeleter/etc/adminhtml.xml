@@ -15,7 +15,7 @@
  * to newer versions in the future.
  *
  * @category    Magebeam
- * @package     Magebeam_OrderDeleter
+ * @package     Magebeam_EasyOrderDeleter
  * @copyright   Copyright (c) 2012 Magebeam (http://www.magebeam.com)
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
@@ -31,7 +31,7 @@
                                 <children>
                                     <actions>
                                         <children>
-                                            <create translate="title"><title>Delete</title></create>
+                                            <delete translate="title"><title>Delete</title></delete>
                                         </children>
                                     </actions>
                                 </children>
