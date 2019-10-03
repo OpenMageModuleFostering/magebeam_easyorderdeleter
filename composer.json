@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Magebeam_EasyOrderDeleter",
+    "name": "openmage-module-fostering\/magebeam_easyorderdeleter",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "<strong>Magebeam Easy Order Deleter<\/strong> gives the store owner ability to easly delete any order from the store.",
     "authors": [
